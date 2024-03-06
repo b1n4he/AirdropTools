@@ -10,7 +10,7 @@ const userAgent = fakeUa();
 
 const MAX_RETRIES = 5; // 最大重试次数
 const MAX_PROXY_CHECK_ATTEMPTS = 3;
-const Proxy = ''
+const Proxy = 'http://1gnXXXX7m:Ce4XXXXXi4V@proxy.proxy-cheap.com:31112'
 
 const agent = new HttpsProxyAgent(Proxy);
 

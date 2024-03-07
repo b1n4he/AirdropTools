@@ -36,7 +36,7 @@ function CreateRegex(total) {
 }
 
 // 需要生成的钱包数量
-const total = 1000;
+const total = 10;
 
 // 生成正则表达式
 const regexL = CreateRegex(total)
